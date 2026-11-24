@@ -1,0 +1,48 @@
+{
+  "n": 1113,
+  "total_r": 353.0528,
+  "mean_r": 0.3172082659478886,
+  "sd_r": 1.2476355171862343,
+  "pf": 1.7986006447113736,
+  "max_dd_r": 12.66450000000026,
+  "worst_day_r": -2.1,
+  "best_day_r": 6.635400000000001,
+  "worst_14d_r": -5.7213,
+  "median_14d_r": 2.3409000000000004,
+  "max_losing_streak": 7,
+  "risk_pips_mean": 10.836388140161725,
+  "gate": [
+    {
+      "risk": 0.0025,
+      "max_dd_$": 158.30625000000325,
+      "dd_multiple": 0.3166125000000065,
+      "worst_day_$": 26.25,
+      "day_multiple": 0.105,
+      "passes": true
+    },
+    {
+      "risk": 0.005,
+      "max_dd_$": 316.6125000000065,
+      "dd_multiple": 0.633225000000013,
+      "worst_day_$": 52.5,
+      "day_multiple": 0.21,
+      "passes": true
+    },
+    {
+      "risk": 0.0075,
+      "max_dd_$": 474.9187500000097,
+      "dd_multiple": 0.9498375000000194,
+      "worst_day_$": 78.75,
+      "day_multiple": 0.315,
+      "passes": true
+    },
+    {
+      "risk": 0.01,
+      "max_dd_$": 633.225000000013,
+      "dd_multiple": 1.266450000000026,
+      "worst_day_$": 105.0,
+      "day_multiple": 0.42,
+      "passes": false
+    }
+  ]
+}
